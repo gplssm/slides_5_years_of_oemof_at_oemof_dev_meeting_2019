@@ -8,6 +8,27 @@ classoption: aspectratio=169
 date: December 4, 2019
 ---
 
+# {.plain}
+
+\center\Huge What happened on December 4th 2014?
+
+# {.plain}
+
+\center\Huge On the way towards v0.0.1
+
+# {.plain}
+
+\center\Huge The great refactoring: v0.1.0
+
+# {.plain}
+
+\center\Huge Development post v0.1.0 focused on code quality
+
+
+# {.plain}
+
+\center\Huge Some statistics from the git repository
+
 
 # More and more contributors joined over time
 
