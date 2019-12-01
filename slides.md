@@ -26,10 +26,6 @@ date: December 4, 2019
 
 ![](fig/Punch_card_henhuy.pdf)
 
-# ...closest to it
-
-![](fig/Punch_card_jnnr.pdf)
-
 # 17/7
 
 ![](fig/Punch_card_simnh.pdf)
