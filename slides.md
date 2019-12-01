@@ -6,6 +6,9 @@ author:
 title: "5 years of oemof development"
 classoption: aspectratio=169
 date: December 4, 2019
+header-includes:
+ - |
+   \usepackage{tikz}
 ---
 
 # {.plain}
@@ -66,3 +69,13 @@ date: December 4, 2019
 # Off the working hours
 
 ![](fig/Punch_card_bmlancien.pdf)
+
+# {.plain}
+
+\begin{tikzpicture}[remember picture, overlay]
+\node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{fig/oemof_timeline.pdf}};
+\node<2->[fill=white,opacity=.95,text opacity=1] at (current page.center) {\Huge Thanks for contributing!};
+\end{tikzpicture}
+
+
+
