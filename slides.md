@@ -6,6 +6,7 @@ author:
 title: "5 years of oemof development"
 classoption: aspectratio=169
 date: December 4, 2019
+institute: 10th oemof dev meeting
 header-includes:
  - |
    \usepackage{tikz}
@@ -74,7 +75,7 @@ header-includes:
 
 \begin{tikzpicture}[remember picture, overlay]
 \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{fig/oemof_timeline.pdf}};
-\node<2->[fill=white,opacity=.95,text opacity=1] at (current page.center) {\Huge Thanks for contributing!};
+\node<2->[fill=white,opacity=.95,text opacity=1, inner sep=1.2cm] at (current page.center) {\Huge Thanks for contributing!};
 \end{tikzpicture}
 
 
