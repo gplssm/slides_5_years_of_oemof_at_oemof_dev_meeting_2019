@@ -240,6 +240,24 @@ What was totally new in v0.1.0?
 
 \center\Huge Some statistics from the git repository
 
+---
+
+How many contributors committed to oemof's code base until now?
+
+* A: 13
+* B: 42
+* C: 28
+* D: 31
+
+---
+
+How many contributors committed to oemof's code base until now?
+
+* A: 13
+* B: 42
+* C: 28
+* D: **31**
+
 
 # More and more contributors joined over time
 
