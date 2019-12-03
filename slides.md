@@ -235,6 +235,19 @@ What was totally new in v0.1.0?
 
 \center\Huge Development post v0.1.0 focused on code quality and new features
 
+---
+
+Which oemof release took the longest?
+
+* A: v0.0.1
+* B: v0.2.0
+* C: v0.5.2
+* D: v0.1.0
+
+---
+
+\center
+![](fig/oemof_releases.png){ width=100% }
 
 # {.plain}
 
