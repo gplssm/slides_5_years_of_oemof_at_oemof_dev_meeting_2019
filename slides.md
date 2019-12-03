@@ -64,11 +64,6 @@ Which model did NOT inspire oemof
 * C: MR Esom
 * D: reegis_hp
 
----
-
-\center
-
-Gibt es noch ein Bild von dem Gründungstreffen?
 
 ---
 
