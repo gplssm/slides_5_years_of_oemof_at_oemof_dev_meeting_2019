@@ -120,7 +120,7 @@ Which model did NOT inspire oemof
 \center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_15.pdf}
 
-# Wir fuhren mit _pahesmf_ nach Flensburg und kamen zurück mit
+# We drove to Flensburg with _pahesmf_  and returned with
 
 \center
 ![](fig/oemof_phonetic_cropped.jpg){ width=75% }
