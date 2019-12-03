@@ -16,6 +16,77 @@ header-includes:
 
 \center\Huge What happened on December 4th 2014?
 
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_1.pdf}
+
+---
+
+\center
+
+Gibt es noch ein Bild von dem Gründungstreffen?
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_2.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_3.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_4.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_5.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_6.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_7.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_9.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_12.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_13.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_14.pdf}
+
+---
+
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/Slide_15.pdf}
+
+# Wir fuhren mit _pahesmf_ nach Flensburg und kamen zurück mit
+
+\center
+![](fig/oemof_phonetic_cropped.jpg){ width=75% }
+
 # {.plain}
 
 \center\Huge On the way towards v0.0.1
