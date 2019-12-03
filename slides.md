@@ -48,7 +48,7 @@ What happened on December 4th 2014?
 
 ---
 
-Which model did NOT inspired oemof
+Which model did NOT inspire oemof
 
 * A: renpass
 * B: NooDEl
@@ -57,18 +57,13 @@ Which model did NOT inspired oemof
 
 ---
 
-Which modell did NOT inspired oemof
+Which model did NOT inspire oemof
 
 * A: renpass
 * B: **NooDEl**
 * C: MR Esom
 * D: reegis_hp
 
----
-
-\center
-
-Gibt es noch ein Bild von dem Gründungstreffen?
 
 ---
 
@@ -125,7 +120,7 @@ Gibt es noch ein Bild von dem Gründungstreffen?
 \center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_15.pdf}
 
-# Wir fuhren mit _pahesmf_ nach Flensburg und kamen zurück mit
+# We drove to Flensburg with _pahesmf_  and returned with
 
 \center
 ![](fig/oemof_phonetic_cropped.jpg){ width=75% }
@@ -240,10 +235,41 @@ What was totally new in v0.1.0?
 
 \center\Huge Development post v0.1.0 focused on code quality and new features
 
+---
+
+Which oemof release took the longest?
+
+* A: v0.0.1
+* B: v0.2.0
+* C: v0.5.2
+* D: v0.1.0
+
+---
+
+\center
+![](fig/oemof_releases.png){ width=100% }
 
 # {.plain}
 
 \center\Huge Some statistics from the git repository
+
+---
+
+How many contributors committed to oemof's code base until now?
+
+* A: 13
+* B: 42
+* C: 28
+* D: 31
+
+---
+
+How many contributors committed to oemof's code base until now?
+
+* A: 13
+* B: 42
+* C: 28
+* D: **31**
 
 
 # More and more contributors joined over time
