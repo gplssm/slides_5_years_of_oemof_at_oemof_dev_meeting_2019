@@ -48,7 +48,7 @@ What happened on December 4th 2014?
 
 ---
 
-Which model did NOT inspired oemof
+Which model did NOT inspire oemof
 
 * A: renpass
 * B: NooDEl
@@ -57,7 +57,7 @@ Which model did NOT inspired oemof
 
 ---
 
-Which modell did NOT inspired oemof
+Which model did NOT inspire oemof
 
 * A: renpass
 * B: **NooDEl**
