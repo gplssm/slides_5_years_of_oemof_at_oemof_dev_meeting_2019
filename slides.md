@@ -12,14 +12,57 @@ header-includes:
    \usepackage{tikz}
 ---
 
+What do you know about oemofs history?
+
+* Build groups of 2-4 members
+* Take A,B,C,D - sheets for each group
+* Close your notebook and put your smartphone in your bag - no cheating!
+___
+
 # {.plain}
 
 \center\Huge What happened on December 4th 2014?
 
 ---
 
+What happened on December 4th 2014?
+
+* A: The initial commit of the oemof repository was created
+* B: The oemof foundation meeting was held
+* C: A presentation was held about collaborative working in the field of energy modelling.
+* D: The decision was taken to found oemof
+
+---
+
+What happened on December 4th 2014?
+
+* A: The initial commit of the oemof repository was created
+* B: The oemof foundation meeting was held
+* C: **A presentation was held about collaborative working in the field of energy modelling.**
+* D: The decision was taken to found oemof
+
+---
+
 \center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_1.pdf}
+
+---
+
+Which model did NOT inspired oemof
+
+* A: renpass
+* B: NooDEl
+* C: MR Esom
+* D: reegis_hp
+
+---
+
+Which modell did NOT inspired oemof
+
+* A: renpass
+* B: **NooDEl**
+* C: MR Esom
+* D: reegis_hp
 
 ---
 
@@ -93,11 +136,109 @@ Gibt es noch ein Bild von dem Gründungstreffen?
 
 # {.plain}
 
+What was the first package published?
+
+* A: feedinlib
+* B: outputlib
+* C: solph
+* D: oemof
+
+---
+
+What was the first package published?
+
+* A: **feedinlib**
+* B: outputlib
+* C: solph
+* D: oemof
+
+---
+
+
+\center\Huge Extra: What was the first version number and why?
+
+---
+
+# Work on the first oemof (solph) release
+
+\center
+![](fig/oemof_großeltern.png){ width=70% }
+
+---
+
+What was the name of the first release package?
+
+* A: oemof_core
+* B: oemof_network
+* C: oemof_solph
+* D: oemof_base
+
+---
+
+What was the name of the first release package?
+
+* A: oemof_core
+* B: oemof_network
+* C: oemof_solph
+* D: **oemof_base**
+
+---
+
+# Release party (guys)
+
+\center
+![](fig/the_guys_old.png){ width=70% }
+
+---
+
+# Release party (girls)
+
+\center
+![](fig/the_girls_old.png){ width=70% }
+
+---
+
 \center\Huge The great refactoring: v0.1.0
 
 # {.plain}
 
-\center\Huge Development post v0.1.0 focused on code quality
+What was NOT released in autumn 2016
+
+* A: oemof v0.1.0
+* B: feedinlib v0.0.11
+* C: windpowerlib v0.0.1
+* D: demandlib v0.1.0
+
+---
+
+What was NOT released in autumn 2016
+
+* A: oemof v0.1.0
+* B: feedinlib v0.0.11
+* C: **windpowerlib v0.0.1** -> August 2016 :-) 
+* D: demandlib v0.1.0
+
+---
+
+What was totally new in v0.1.0?
+
+* A: Investment mode
+* B: Additional constraints
+* C: Flow class
+* D: EnergySystem class
+
+---
+
+What was totally new in v0.1.0?
+
+* A: Investment mode
+* B: Additional constraints
+* C: **Flow class**
+* D: EnergySystem class
+
+---
+
+\center\Huge Development post v0.1.0 focused on code quality and new features
 
 
 # {.plain}
