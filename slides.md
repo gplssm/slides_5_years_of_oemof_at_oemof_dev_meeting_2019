@@ -26,6 +26,11 @@ ___
 
 ---
 
+\center
+\includegraphics[page=1,width=\paperwidth]{fig/IMG_0017.JPG}
+
+---
+
 What happened on December 4th 2014?
 
 * A: The initial commit of the oemof repository was created
