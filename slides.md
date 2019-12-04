@@ -5,6 +5,7 @@ author:
  - "@c-moeller"
 title: "5 years of oemof development"
 classoption: aspectratio=169
+titlegraphic: '`fig/logo_oemof_website_big.png`{=latex}'
 date: December 4, 2019
 institute: 10th oemof dev meeting
 header-includes:
