@@ -242,7 +242,7 @@ Which oemof release took the longest?
 
 ---
 
-Extra point: Whick package came up next?
+Extra point: Which package came up next?
 
 ---
 
