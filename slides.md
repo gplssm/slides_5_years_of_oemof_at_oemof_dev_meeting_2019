@@ -242,6 +242,11 @@ Which oemof release took the longest?
 
 ---
 
+\center
+![](fig/oemof_releases.png){ width=100% }
+
+---
+
 Extra point: Which package came up next?
 
 ---
@@ -296,11 +301,7 @@ How many books exist about oemof?
 
 ![](fig/2017_12_dev.jpg){ width=100% }
 
----
 
-
-\center
-![](fig/oemof_releases.png){ width=100% }
 
 # {.plain}
 
