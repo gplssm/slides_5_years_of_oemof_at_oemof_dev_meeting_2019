@@ -12,11 +12,12 @@ header-includes:
    \usepackage{tikz}
 ---
 
-What do you know about oemofs history?
+What do you know about oemof's history?
 
 * Build groups of 2-4 members
 * Take A,B,C,D - sheets for each group
 * Close your notebook and put your smartphone in your bag - no cheating!
+
 ___
 
 # {.plain}
@@ -64,7 +65,6 @@ Which model did NOT inspire oemof
 * C: MR Esom
 * D: reegis_hp
 
-
 ---
 
 \center
@@ -78,27 +78,12 @@ Which model did NOT inspire oemof
 ---
 
 \center
-\includegraphics[page=1,width=\paperwidth]{fig/Slide_4.pdf}
-
----
-
-\center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_5.pdf}
 
 ---
 
 \center
-\includegraphics[page=1,width=\paperwidth]{fig/Slide_6.pdf}
-
----
-
-\center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_7.pdf}
-
----
-
-\center
-\includegraphics[page=1,width=\paperwidth]{fig/Slide_9.pdf}
 
 ---
 
@@ -120,14 +105,20 @@ Which model did NOT inspire oemof
 \center
 \includegraphics[page=1,width=\paperwidth]{fig/Slide_15.pdf}
 
+---
+
 # We drove to Flensburg with _pahesmf_  and returned with
 
 \center
 ![](fig/oemof_phonetic_cropped.jpg){ width=75% }
 
+---
+
 # {.plain}
 
 \center\Huge On the way towards v0.0.1
+
+---
 
 # {.plain}
 
@@ -148,7 +139,6 @@ What was the first package published?
 * D: oemof
 
 ---
-
 
 \center\Huge Extra: What was the first version number and why?
 
@@ -246,6 +236,63 @@ Which oemof release took the longest?
 
 ---
 
+Extra point: Whick package came up next?
+
+---
+
+**TESPy**
+
+---
+
+When was the initial commit of TESPy?
+
+* A: 06/2016
+* B: 12/2016
+* C: 06/2017
+* D: 12/2017
+
+---
+
+When was the initial commit of TESPy?
+
+* A: 06/2016
+* B: 12/2016
+* C: 06/2017
+* D: **12/2017**
+
+---
+
+# The first user meeting in May 2017
+
+![](fig/user_meeting.jpg){ width=100% }
+
+---
+
+How many books exist about oemof?
+
+* A: No real book
+* B: A chaotic collection of concept papers published as a book
+* C: A Springer book but nobody knows how this could ever pass the review
+* D: An english book but in Latin it would have been at least funny
+
+---
+
+How many books exist about oemof?
+
+* A: **No real book**
+* B: **A chaotic collection of concept papers published as a book**
+* C: **A Springer book but nobody knows how this could ever pass the review**
+* D: **An english book but in Latin it would have been at least funny**
+
+---
+
+# The meetings from 12/2017 to 05/2019
+
+![](fig/2017_12_dev.jpg){ width=100% }
+
+---
+
+
 \center
 ![](fig/oemof_releases.png){ width=100% }
 
@@ -271,43 +318,62 @@ How many contributors committed to oemof's code base until now?
 * C: 28
 * D: **31**
 
+---
 
 # More and more contributors joined over time
 
 \center
 ![](fig/Activity_in_quartals_hlines.pdf){ width=85% }
 
+---
+
 # {.plain}
 
 ![](fig/Punch_card_all.pdf)
+
+---
 
 # {.plain}
 
 \center\Huge Who's working when?
 
+---
+
 # 9-to-5er
 
 ![](fig/Punch_card_henhuy.pdf)
+
+---
 
 # 17/7
 
 ![](fig/Punch_card_simnh.pdf)
 
+---
+
 # Late night hero
 
 ![](fig/Punch_card_gnn.pdf)
+
+---
 
 # Not on Fridays
 
 ![](fig/Punch_card_FranziPl.pdf)
 
+---
+
 # Earliest commit ever?
 
 ![](fig/Punch_card_p-snft.pdf)
 
+---
+
 # Off the working hours
 
 ![](fig/Punch_card_bmlancien.pdf)
+
+---
 
 # {.plain}
 
